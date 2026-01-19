@@ -1,4 +1,4 @@
-# 0xHamilton / Chris Hamilton
+# 0xHamilton / Chris "Kai" Hamilton
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Headless_Mode-eb5757?style=for-the-badge&logo=solana&logoColor=white" alt="Status: Headless" />
