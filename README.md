@@ -42,7 +42,7 @@ Building the "Truth-as-a-Service" layer with @L-Kov and @jklepatch.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?usernameKailare&show_icons=true&theme=transparent&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb" alt="Chris's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kailare&show_icons=true&theme=transparent&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb" alt="Chris's Stats" />
 </p>
 
 ---
