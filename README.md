@@ -28,7 +28,7 @@ I build high-concurrency infrastructure that Machines can use. Currently focused
 
 ---
 
-### 🚀 Current Work: [Auracle](https://github.com/auracle-core)
+### 🚀 Current Work: [Remind Me CLI](https://github.com/Remind-Me-CLI)
 
 Building the "Truth-as-a-Service" layer with @L-Kov and @jklepatch. 
 - **No Website.**
