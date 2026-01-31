@@ -28,12 +28,6 @@ I build high-concurrency infrastructure that Machines can use. Currently focused
 
 ---
 
-### 🚀 Current Work: [Remind Me CLI](https://github.com/Remind-Me-CLI)
-
-Building the "Truth-as-a-Service" layer with @L-Kov and @jklepatch. 
-- **No Website.**
-- **No Socials.**
-- **Only Code.**
 
 > "If a human can click it, I didn't build it."
 
